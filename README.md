@@ -21,14 +21,25 @@
 - DevOps
   - Docker, CirlceCI, Github Actions
 - Service
-  - WordPress, Shopify
+  - WordPress, Shopify, SendGrid
 - Tools
   - Slack, Notion, Asana, Figma, Adobe XD
 - Analysis
-  - Google Analytics, Google Tag Manager, Sentry, mixpanel, Clarity 
+  - Google Analytics, Google Tag Manager, Sentry, mixpanel, Clarity
+
+![](https://raw.githubusercontent.com/masaki-ono/masaki-ono/main/profile-summary-card-output/dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/masaki-ono/masaki-ono/main/profile-summary-card-output/dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/masaki-ono/masaki-ono/main/profile-summary-card-output/dark/3-stats.svg)
+
+## 💻 Portfolio
+- [でぃーぷまりん深島](https://fukashima.com)
+  - Manager / Frontend
+  - Nuxt.js, TypeScript
+  - AWS（S3, Cloudfront）
 
 ## 💬 Career
 1. SI
 2.  Web Freelance
 3.  Startup Engineer
+
  
